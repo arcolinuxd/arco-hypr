@@ -72,7 +72,6 @@ list=(
 arcolinux-bin-git
 arcolinux-hblock-git
 arcolinux-root-git
-arcolinux-termite-themes-git
 archlinux-tweak-tool-git
 arcolinux-variety-git
 )
