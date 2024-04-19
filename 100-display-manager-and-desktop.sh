@@ -54,7 +54,7 @@ thunar-archive-plugin
 thunar-volman
 xfce4-terminal
 arcolinux-hypr-git
-arcolinux-xfce-git
+arconet-xfce
 arcolinux-local-xfce4-git
 hypr-dev-git
 autotiling
