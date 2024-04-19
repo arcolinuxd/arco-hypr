@@ -64,7 +64,7 @@ arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
 archlinux-logout-git
 polybar
-rofi
+rofi-lbonn-wayland
 )
 
 count=0
